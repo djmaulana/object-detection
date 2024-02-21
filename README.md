@@ -35,3 +35,12 @@ You can access and download the pre-trained model from the following link:
 
 To use the pre-trained model in your own projects, simply download the model files and follow the instructions provided by Roboflow for integration and deployment.
 
+## Video Results
+
+You can view the results of the object detection model applied to sample videos by accessing the following link:
+
+[Sample Video Results](https://drive.google.com/drive/folders/1-du0ECn6wfiAr05ql-MiDG3OE6q0TXTl?usp=sharing)
+
+These videos demonstrate the performance of the object detection model in detecting various items of safety gear in real-world scenarios. Feel free to explore the videos and observe the model's detections.
+
+
