@@ -25,3 +25,13 @@ Python, OpenCV, Roboflow, supervision.
 ### Installation
 
 Provide step-by-step instructions on how to set up the project environment, install dependencies, and run the code.
+
+## Pre-Trained Model
+
+A pre-trained model for object detection has been trained using Roboflow's APD (Advanced Personal Protective Equipment Detection) dataset. This model can detect various items of safety gear such as helmets, gloves, goggles, and boots.
+
+You can access and download the pre-trained model from the following link:
+[Pre-Trained Object Detection Model](https://universe.roboflow.com/apd-detection/apd-detection-vrpms/model/1)
+
+To use the pre-trained model in your own projects, simply download the model files and follow the instructions provided by Roboflow for integration and deployment.
+
